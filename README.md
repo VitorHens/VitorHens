@@ -46,4 +46,4 @@ Continuar aprendendo, desenvolver novos projetos e evoluir cada vez mais como pr
 📫 Contato
 
 📧 E-mail: vitorhens.08@gmail.com
-💼 LinkedIn: Meu LinkedIn
+💼 LinkedIn: Vitor hens
