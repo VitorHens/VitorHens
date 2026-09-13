@@ -2,6 +2,8 @@
 
 🎓 Estudante do 2º ano do Ensino Médio e do curso Técnico em Informática na UNIVAP, em São José dos Campos - SP.
 
+> 💼 Disponível para oportunidades de estágio em Tecnologia da Informação.
+
 Estou construindo minha experiência em tecnologia por meio de projetos acadêmicos e estudos práticos. Tenho interesse em **desenvolvimento de sistemas, desenvolvimento web, APIs, banco de dados e programação**.
 
 ## 🛠️ Tecnologias
@@ -22,35 +24,35 @@ Estou construindo minha experiência em tecnologia por meio de projetos acadêmi
 
 ## 🚀 Principais projetos
 
-### 🎓 [Sistema Acadêmico para Professores](https://github.com/VitorHens/Sistema-Acad-mico-para-Professores)
+### 🎓 [Sistema Acadêmico para Professores](https://github.com/VitorHens/sistema-academico-professores)
 Sistema web para gerenciamento acadêmico com **API REST, CRUD, autenticação JWT e MySQL**, organizado em camadas com Controllers, Services, DAOs, Models, Routes e Middlewares.
 
 **Tecnologias:** PHP • JavaScript • Slim Framework • MySQL • JWT • Bootstrap
+
+### 🏫 [Sistema de Avaliação da Feira Técnica](https://github.com/VitorHens/sistema-avaliacao-feira-tecnica)
+Sistema web para cadastro e avaliação de projetos, com **API REST, autenticação JWT e MongoDB**.
+
+**Tecnologias:** Node.js • Express • MongoDB • JWT • JavaScript • Bootstrap
 
 ### 🌦️ [Climate Monitoring](https://github.com/VitorHens/Climate-Monitoring)
 Aplicação full stack para monitoramento climático, com cadastro e login de usuários, cidades salvas e histórico de informações meteorológicas.
 
 **Tecnologias:** React • TypeScript • Node.js • Express • MongoDB • Vite
 
-### 📡 [Radar de Preços](https://github.com/VitorHens/Radar-de-Pre-os)
+### 📡 [Radar de Preços](https://github.com/VitorHens/radar-de-precos)
 Sistema em Python que monitora preços de produtos usando web scraping, registra histórico no MongoDB e envia alertas por e-mail quando a meta de preço é atingida.
 
 **Tecnologias:** Python • FastAPI • MongoDB • BeautifulSoup • Requests • APScheduler
 
-### 🎮 [Jogo 2D — Feira Técnica](https://github.com/VitorHens/feira_t-cnica_1ano)
+### 🎮 [Jogo 2D — Feira Técnica](https://github.com/VitorHens/jogo-2d-sistema-avaliacao-feira-tecnica)
 Jogo 2D desenvolvido em Unity com fases, inimigos, sistema de experiência, habilidades, ataques, menus, animações e telas de vitória e derrota.
 
 **Tecnologias:** Unity • C#
 
-### 🔌 [API REST PHP/MySQL](https://github.com/VitorHens/projeto-paw-api-rest)
+### 🔌 [API REST PHP/MySQL](https://github.com/VitorHens/api-rest-php-mysql)
 API REST para gerenciamento de dados relacionais com operações CRUD, validações, arquitetura MVC e padrão DAO.
 
 **Tecnologias:** PHP • Slim Framework • MySQL • PDO • REST API
-
-### ⚽ [Sistema de Campeonato de Futebol](https://github.com/VitorHens/-Sistema-de-Campeonato-de-Futebol)
-Programa em Python para registrar resultados de times, calcular pontuação, vitórias e aproveitamento e identificar campeão, vice-campeão e outras estatísticas.
-
-**Tecnologias:** Python • Listas • Tuplas • Dicionários • Condicionais
 
 ## 📚 Atualmente estudando
 
@@ -67,4 +69,5 @@ Continuar evoluindo como desenvolvedor, fortalecer meus conhecimentos por meio d
 
 ## 📫 Contato
 
-**E-mail:** vitorhens.08@gmail.com
+**E-mail:** vitorhens.08@gmail.com  
+**LinkedIn:** [linkedin.com/in/vitor-hens-03545023a](https://www.linkedin.com/in/vitor-hens-03545023a)
