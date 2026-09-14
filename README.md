@@ -44,7 +44,7 @@ Sistema em Python que monitora preços de produtos usando web scraping, registra
 
 **Tecnologias:** Python • FastAPI • MongoDB • BeautifulSoup • Requests • APScheduler
 
-### 🎮 [Jogo 2D — Feira Técnica](https://github.com/VitorHens/jogo-2d-sistema-avaliacao-feira-tecnica)
+### 🎮 [Jogo 2D — Feira Técnica](https://github.com/VitorHens/jogo-2d-feira-tecnica)
 Jogo 2D desenvolvido em Unity com fases, inimigos, sistema de experiência, habilidades, ataques, menus, animações e telas de vitória e derrota.
 
 **Tecnologias:** Unity • C#
